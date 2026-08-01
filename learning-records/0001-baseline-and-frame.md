@@ -1,0 +1,5 @@
+# Baseline established: experienced inductive learner from Isaiah track, postmil frame carried over
+
+User arrives with 51 Isaiah lessons completed: the inductive method (observation/interpretation/application) is functional, the observe-first-then-helps discipline is habitual, and spaced recall plus memory verse work are familiar mechanics. Matthew is a second track run alongside Isaiah, not a replacement. The theological frame carries over: Reformed, postmil (Durbin) home lens, with MacArthur (futurist premil) and White (amil) flagged honestly; in Matthew the decisive fork is the Olivet Discourse (24-25), where the home lens is partial-preterist and the MSB notes argue hard the other way.
+
+**Implications**: Do not re-teach method; refresh in one quiz question and move. Define Gospel-specific terms (Synoptic, discourse, kingdom of heaven, fulfillment formula) on first use. Exploit the Isaiah crossover constantly; the user is at Isa 40 and will feel the promise-fulfillment handshake. First skill milestone to verify: unaided observation list on Matt 1:1-17 (lesson 0002), including spotting the 3x14 structure or the five women without prompting.
