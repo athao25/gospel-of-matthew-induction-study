@@ -43,7 +43,19 @@
     { f: '0035-matthew-13-1-23-the-sower.html', t: 'Matt 13:1-23 · The Sower' },
     { f: '0036-matthew-13-24-43-weeds-mustard-leaven.html', t: 'Matt 13:24-43 · Weeds, Mustard, Leaven' },
     { f: '0037-matthew-13-44-58-treasure-pearl-net.html', t: 'Matt 13:44-58 · Treasure, Pearl, Net' },
-    { f: '0038-unit-4-recap-responses-to-the-king.html', t: 'Unit 4 Recap · Responses to the King' }
+    { f: '0038-unit-4-recap-responses-to-the-king.html', t: 'Unit 4 Recap · Responses to the King' },
+    { f: '0039-matthew-14-1-21-the-baptist-and-the-bread.html', t: 'Matt 14:1-21 · The Baptist and the Bread' },
+    { f: '0040-matthew-14-22-36-walking-on-water.html', t: 'Matt 14:22-36 · Walking on Water' },
+    { f: '0041-matthew-15-1-20-tradition-and-the-heart.html', t: 'Matt 15:1-20 · Tradition and the Heart' },
+    { f: '0042-matthew-15-21-39-crumbs-and-abundance.html', t: 'Matt 15:21-39 · Crumbs and Abundance' },
+    { f: '0043-matthew-16-1-12-the-leaven-of-the-pharisees.html', t: 'Matt 16:1-12 · The Leaven' },
+    { f: '0044-matthew-16-13-20-you-are-the-christ.html', t: 'Matt 16:13-20 · You Are the Christ' },
+    { f: '0045-matthew-16-21-28-take-up-your-cross.html', t: 'Matt 16:21-28 · Take Up Your Cross' },
+    { f: '0046-matthew-17-1-13-the-transfiguration.html', t: 'Matt 17:1-13 · The Transfiguration' },
+    { f: '0047-matthew-17-14-27-faith-and-the-temple-tax.html', t: 'Matt 17:14-27 · Faith and the Temple Tax' },
+    { f: '0048-matthew-18-1-14-the-greatest-in-the-kingdom.html', t: 'Matt 18:1-14 · The Greatest' },
+    { f: '0049-matthew-18-15-35-forgiveness-without-limit.html', t: 'Matt 18:15-35 · Forgiveness Without Limit' },
+    { f: '0050-unit-5-recap-the-messiah-confessed.html', t: 'Unit 5 Recap · The Messiah Confessed' }
   ];
   var REFS = [
     { f: 'inductive-method.html',  t: 'Inductive Method' },
