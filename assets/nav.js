@@ -7,7 +7,15 @@
 (function () {
   var LESSONS = [
     { f: '0001-how-to-study-scripture.html', t: 'How to Study Scripture' },
-    { f: '0002-matthew-big-picture.html', t: 'The Big Picture of Matthew' }
+    { f: '0002-matthew-big-picture.html', t: 'The Big Picture of Matthew' },
+    { f: '0003-matthew-1-1-17-the-kings-papers.html', t: 'Matt 1:1-17 · The King\'s Papers' },
+    { f: '0004-matthew-1-18-25-immanuel.html', t: 'Matt 1:18-25 · Immanuel' },
+    { f: '0005-matthew-2-1-12-the-magi.html', t: 'Matt 2:1-12 · The Magi' },
+    { f: '0006-matthew-2-13-23-out-of-egypt.html', t: 'Matt 2:13-23 · Out of Egypt' },
+    { f: '0007-matthew-3-1-12-the-voice.html', t: 'Matt 3:1-12 · The Voice' },
+    { f: '0008-matthew-3-13-17-the-fathers-voice.html', t: 'Matt 3:13-17 · The Father\'s Voice' },
+    { f: '0009-matthew-4-1-11-the-temptation.html', t: 'Matt 4:1-11 · The Temptation' },
+    { f: '0010-matthew-4-12-25-the-kingdom-at-hand.html', t: 'Matt 4:12-25 · The Kingdom at Hand' }
   ];
   var REFS = [
     { f: 'inductive-method.html',  t: 'Inductive Method' },
