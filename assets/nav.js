@@ -6,7 +6,8 @@
  */
 (function () {
   var LESSONS = [
-    { f: '0001-matthew-big-picture.html', t: 'The Big Picture of Matthew' }
+    { f: '0001-how-to-study-scripture.html', t: 'How to Study Scripture' },
+    { f: '0002-matthew-big-picture.html', t: 'The Big Picture of Matthew' }
   ];
   var REFS = [
     { f: 'inductive-method.html',  t: 'Inductive Method' },
