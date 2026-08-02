@@ -23,7 +23,8 @@
 - This is a standalone course. It assumes no prior study track and teaches the inductive method from zero in lesson 0001.
 
 ## Pacing ledger
-- Full course planned at 79 lessons across 8 units; see CURRICULUM.md for the complete lesson-by-lesson map.
+- STATUS 2026-08-01: all 79 lessons built and deployed. The course is complete end to end, Matthew 1:1 through 28:20 plus a capstone.
+- Full course is 79 lessons across 8 units; see CURRICULUM.md for the complete lesson-by-lesson map.
 - Unit 1 (ch. 1-4): lessons 0001-0010. Orientation is 0001 (how to study Scripture) and 0002 (big picture of Matthew); exposition starts at 0003.
 - Unit 2 (ch. 5-7): 0011-0021. Unit 3 (ch. 8-10): 0022-0029. Unit 4 (ch. 11-13): 0030-0038. Unit 5 (ch. 14-18): 0039-0050. Unit 6 (ch. 19-23): 0051-0061. Unit 7 (ch. 24-25): 0062-0069. Unit 8 (ch. 26-28): 0070-0079.
 - Each unit closes with a recap lesson (0010, 0021, 0029, 0038, 0050, 0061, 0069) and the course closes with a capstone (0079).

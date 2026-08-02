@@ -74,7 +74,17 @@
     { f: '0066-matthew-25-1-13-the-ten-virgins.html', t: 'Matt 25:1-13 · The Ten Virgins' },
     { f: '0067-matthew-25-14-30-the-talents.html', t: 'Matt 25:14-30 · The Talents' },
     { f: '0068-matthew-25-31-46-sheep-and-goats.html', t: 'Matt 25:31-46 · Sheep and Goats' },
-    { f: '0070-matthew-26-1-30-the-anointing-and-the-supper.html', t: 'Matt 26:1-30 · Anointing and Supper' }
+    { f: '0069-unit-7-recap-the-olivet-discourse.html', t: 'Unit 7 Recap · The Olivet Discourse' },
+    { f: '0070-matthew-26-1-30-the-anointing-and-the-supper.html', t: 'Matt 26:1-30 · Anointing and Supper' },
+    { f: '0071-matthew-26-31-56-gethsemane.html', t: 'Matt 26:31-56 · Gethsemane' },
+    { f: '0072-matthew-26-57-75-two-trials.html', t: 'Matt 26:57-75 · Two Trials' },
+    { f: '0073-matthew-27-1-26-judas-and-pilate.html', t: 'Matt 27:1-26 · Judas and Pilate' },
+    { f: '0074-matthew-27-27-44-the-crown-of-thorns.html', t: 'Matt 27:27-44 · The Crown of Thorns' },
+    { f: '0075-matthew-27-45-56-the-torn-veil.html', t: 'Matt 27:45-56 · The Torn Veil' },
+    { f: '0076-matthew-27-57-66-the-sealed-tomb.html', t: 'Matt 27:57-66 · The Sealed Tomb' },
+    { f: '0077-matthew-28-1-15-he-has-risen.html', t: 'Matt 28:1-15 · He Has Risen' },
+    { f: '0078-matthew-28-16-20-all-authority.html', t: 'Matt 28:16-20 · All Authority' },
+    { f: '0079-course-capstone-the-king-and-his-kingdom.html', t: 'Capstone · The King and His Kingdom' }
   ];
   var REFS = [
     { f: 'inductive-method.html',  t: 'Inductive Method' },
