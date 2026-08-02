@@ -55,7 +55,26 @@
     { f: '0047-matthew-17-14-27-faith-and-the-temple-tax.html', t: 'Matt 17:14-27 · Faith and the Temple Tax' },
     { f: '0048-matthew-18-1-14-the-greatest-in-the-kingdom.html', t: 'Matt 18:1-14 · The Greatest' },
     { f: '0049-matthew-18-15-35-forgiveness-without-limit.html', t: 'Matt 18:15-35 · Forgiveness Without Limit' },
-    { f: '0050-unit-5-recap-the-messiah-confessed.html', t: 'Unit 5 Recap · The Messiah Confessed' }
+    { f: '0050-unit-5-recap-the-messiah-confessed.html', t: 'Unit 5 Recap · The Messiah Confessed' },
+    { f: '0051-matthew-19-1-15-marriage-and-children.html', t: 'Matt 19:1-15 · Marriage and Children' },
+    { f: '0052-matthew-19-16-30-the-rich-young-man.html', t: 'Matt 19:16-30 · The Rich Young Man' },
+    { f: '0053-matthew-20-1-16-laborers-in-the-vineyard.html', t: 'Matt 20:1-16 · Laborers in the Vineyard' },
+    { f: '0054-matthew-20-17-34-to-serve-and-give.html', t: 'Matt 20:17-34 · To Serve and Give' },
+    { f: '0055-matthew-21-1-17-the-king-enters.html', t: 'Matt 21:1-17 · The King Enters' },
+    { f: '0056-matthew-21-18-46-the-rejected-stone.html', t: 'Matt 21:18-46 · The Rejected Stone' },
+    { f: '0057-matthew-22-1-22-the-wedding-feast.html', t: 'Matt 22:1-22 · The Wedding Feast' },
+    { f: '0058-matthew-22-23-46-the-great-commandment.html', t: 'Matt 22:23-46 · The Great Commandment' },
+    { f: '0059-matthew-23-1-24-woe-to-the-hypocrites.html', t: 'Matt 23:1-24 · Woe to the Hypocrites' },
+    { f: '0060-matthew-23-25-39-o-jerusalem.html', t: 'Matt 23:25-39 · O Jerusalem' },
+    { f: '0061-unit-6-recap-the-king-in-jerusalem.html', t: 'Unit 6 Recap · The King in Jerusalem' },
+    { f: '0062-matthew-24-1-14-the-beginning-of-birth-pains.html', t: 'Matt 24:1-14 · Birth Pains Begin' },
+    { f: '0063-matthew-24-15-28-the-abomination.html', t: 'Matt 24:15-28 · The Abomination' },
+    { f: '0064-matthew-24-29-35-this-generation.html', t: 'Matt 24:29-35 · This Generation' },
+    { f: '0065-matthew-24-36-51-that-day-and-hour.html', t: 'Matt 24:36-51 · That Day and Hour' },
+    { f: '0066-matthew-25-1-13-the-ten-virgins.html', t: 'Matt 25:1-13 · The Ten Virgins' },
+    { f: '0067-matthew-25-14-30-the-talents.html', t: 'Matt 25:14-30 · The Talents' },
+    { f: '0068-matthew-25-31-46-sheep-and-goats.html', t: 'Matt 25:31-46 · Sheep and Goats' },
+    { f: '0070-matthew-26-1-30-the-anointing-and-the-supper.html', t: 'Matt 26:1-30 · Anointing and Supper' }
   ];
   var REFS = [
     { f: 'inductive-method.html',  t: 'Inductive Method' },
